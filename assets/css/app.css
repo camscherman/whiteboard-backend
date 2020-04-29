@@ -1,0 +1,18 @@
+/* This file is for your main application css. */
+
+@import "./phoenix.css";
+
+#local-stream {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+
+#whiteboard {
+  border: 0.5px solid black;
+  width: 640px;
+  height: 400px;
+  /* position: relative; */
+  /* left: 50px;
+  top: 500px; */
+  /* z-index: -1; */
+}
